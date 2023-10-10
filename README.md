@@ -1,6 +1,6 @@
 ## Fatal Police Shootings Dataset
 
-# Overview
+# Overview 
 The fatal_police_shootings_data dataset provides a comprehensive record of fatal encounters between law enforcement officers and individuals. This dataset contains information about various aspects of these incidents, offering valuable insights into the circumstances surrounding fatal police shootings. The data includes details about the victims, law enforcement agencies involved, geographic locations, and other pertinent factors.
 
 # Intended Use
